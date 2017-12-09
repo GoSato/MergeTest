@@ -9,7 +9,7 @@ public class MergeTest : MonoBehaviour
 
     private void TestA()
     {
-        Debug.Log("TestA");
+        Debug.Log("TestA : This is master brunch");
     }
 
     private void TestB()
